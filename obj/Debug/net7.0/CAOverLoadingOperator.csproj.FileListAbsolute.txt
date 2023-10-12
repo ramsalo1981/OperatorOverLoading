@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\bin\Debug\net7.0\CAOverLoadingOperator.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\bin\Debug\net7.0\CAOverLoadingOperator.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\bin\Debug\net7.0\CAOverLoadingOperator.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\bin\Debug\net7.0\CAOverLoadingOperator.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\bin\Debug\net7.0\CAOverLoadingOperator.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\obj\Debug\net7.0\CAOverLoadingOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\obj\Debug\net7.0\CAOverLoadingOperator.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\obj\Debug\net7.0\CAOverLoadingOperator.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\obj\Debug\net7.0\CAOverLoadingOperator.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\obj\Debug\net7.0\CAOverLoadingOperator.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\obj\Debug\net7.0\refint\CAOverLoadingOperator.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\obj\Debug\net7.0\CAOverLoadingOperator.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\obj\Debug\net7.0\CAOverLoadingOperator.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAOverLoadingOperator\obj\Debug\net7.0\ref\CAOverLoadingOperator.dll
